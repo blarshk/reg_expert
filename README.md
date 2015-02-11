@@ -5,8 +5,6 @@ RegExpert is a tiny Ruby library for creating regular expressions of varying com
 ### How to Use It
 
 ```ruby
-  test_string = '2014-01-01'
-
   regexp = RegExpert.new
     .exactly(4).digits
     .find('-')
