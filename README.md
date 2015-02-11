@@ -2,6 +2,8 @@
 
 RegExpert is a tiny Ruby library for creating regular expressions of varying complexity with an easy-to-understand syntax suitable for all applications!
 
+Inspiration for this gem goes to [regexpbuilderjs](https://github.com/thebinarysearchtree/regexpbuilderjs), a JavaScript project I saw on Hacker News.
+
 ### How to Use It
 
 ```ruby
